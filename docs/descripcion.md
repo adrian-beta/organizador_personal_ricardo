@@ -1,0 +1,1 @@
+El proposito de este proyecto es permitir al usuario tener una organizacion de los pendientes que tiene ya sea en el ambito academico como organizar tareas pendientes, proyectos y examenes por realizar o en el ambito de trabajo como pendientes que tiene por realizar e incluso en su dia a dia registrando cosas que le faltne realizar.
