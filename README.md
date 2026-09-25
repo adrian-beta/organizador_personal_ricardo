@@ -33,5 +33,8 @@ Las tecnologias que se utilizaron para creacion de este proyecto son:VS Code, Gi
 -GitHub
 -Python 3
 
+## ESTADO
+En proceso de inclusion de nuevas funciones
+
 ## AUTOR
  RICARDO SOTO CORTES
